@@ -28,8 +28,7 @@ function watchMain() {
             }
         ],
         build: {
-            watch: {},
-            chunkSizeWarningLimit: 10
+            watch: {}
         }
     });
 }
@@ -45,8 +44,7 @@ function watchPreload() {
             }
         }],
         build: {
-            watch: {},
-            chunkSizeWarningLimit: 10
+            watch: {}
         }
     });
 }
